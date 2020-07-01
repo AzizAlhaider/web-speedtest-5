@@ -1,5 +1,6 @@
 let instructor = {
   name: "Menawer",
+  
   courses: ["JavaScript", "React", "PHP"],
   githubAccount: {
     username: "careless10",
@@ -9,3 +10,6 @@ let instructor = {
     console.log("Hi, I'm Menawer");
   },
 };
+console.log ("Menawer");
+console.log("Javascript");
+console.log("careless10");
